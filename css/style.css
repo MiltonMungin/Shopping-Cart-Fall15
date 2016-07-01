@@ -1,0 +1,15 @@
+#menubar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#menubar li {
+    float: left;
+}
+#menubar li a {
+    display: block;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+}
